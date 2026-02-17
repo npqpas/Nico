@@ -13,7 +13,7 @@ Spécialiste freelance : Rédaction SEO, graphiques IA rapides (24h, facturation
 ## Skills
 - IA ChatGPT/Claude (articles SEO).
 - Canva/Midjourney (graphiques tattoos/PME).
-- SEO Belgique (Wallonie, Wortegem).
+- SEO Belgique (Wallonie).
 
 Contact : [LinkedIn/DM] - BE/FR/NL. Studio tattoo Ellezelles.
 
