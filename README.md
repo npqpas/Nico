@@ -7,7 +7,8 @@ Spécialiste freelance : Rédaction SEO, graphiques IA rapides (24h, facturation
 - [Contenu IA pour PME Wallonie](Contenu-ia-pour-PME-Wallonie.md)
 
 ## Graphismes
-![Tattoo Lion](lion-tattoo.png)
+![Tattoo Lion]
+<img src="Tatouage-lion-folie.png" width="300">  <!-- HTML resize -->
 ![Infographie PME](pme-ia.png)
 
 ## Skills
