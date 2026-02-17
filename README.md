@@ -1,4 +1,4 @@
-# Portfolio IA/Contenu - Coni, Wallonie 
+# Portfolio IA/Contenu - Nico, Wallonie 
 
 Spécialiste freelance : Rédaction SEO, graphiques IA rapides (24h, facturation Smart). 1er gig gratuit pour 5★ review !
 
@@ -7,8 +7,7 @@ Spécialiste freelance : Rédaction SEO, graphiques IA rapides (24h, facturation
 - [Contenu IA pour PME Wallonie](Contenu-ia-pour-PME-Wallonie.md)
 
 ## Graphismes
-![Tattoo Lion]
-<img src="tatouage-lion-folie.png" width="300">  <!-- HTML resize -->
+![Tattoo Lion](tatouage-lion-folie.png)
 ![Infographie PME](pme-ia.png)
 
 ## Skills
