@@ -8,7 +8,7 @@ Spécialiste freelance : Rédaction SEO, graphiques IA rapides (24h, facturation
 
 ## Graphismes
 ![Tattoo Lion]
-<img src="Tatouage-lion-folie.png" width="300">  <!-- HTML resize -->
+<img src="tatouage-lion-folie.png" width="300">  <!-- HTML resize -->
 ![Infographie PME](pme-ia.png)
 
 ## Skills
