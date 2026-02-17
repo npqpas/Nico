@@ -4,6 +4,7 @@ Spécialiste freelance : Rédaction SEO, graphiques IA rapides (24h, facturation
 
 ## Exemples
 - [Tendances tatouages 2026 BE](tendances-tatouages-2026.md) (500 mots SEO)
+
 - [Contenu IA pour PME Wallonie](article2.md)
 
 ## Graphismes
